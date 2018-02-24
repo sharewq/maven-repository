@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 04 17:51:49 CST 2018
+dom4j-1.1.pom>central=
+dom4j-1.1.pom>web=
+dom4j-1.1.jar>web=
+dom4j-1.1.jar>central=
