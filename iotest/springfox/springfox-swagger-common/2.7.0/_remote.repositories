@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 04 17:17:45 CST 2018
+springfox-swagger-common-2.7.0.jar>central=
+springfox-swagger-common-2.7.0.pom>central=
+springfox-swagger-common-2.7.0.pom>web=
+springfox-swagger-common-2.7.0.jar>web=
